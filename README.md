@@ -1,4 +1,20 @@
-### Hi there 👋 Please follow me!:smiley::blush::blush:
+### Hi there 👋:smiley::blush::blush:
+
+### 👩 I'm Danica Marie A. Lebrilla
+- Born on September 24, 1999
+- Takes up Bachelor of Science in Information Technology @ WVSU
+- "A person can fail many times, but they are not a failure until they give up."
+
+ ### 🌱 I’m currently learning
+
+ - Computer Programming Language
+ - Networking 
+
+### 📫 Contact Me
+
+- ✉️ :danicamariearaolebrilla@yahoo.com
+- https//:www.facebook.com/danicamariearaolebrilla@yahoo.com
+
 
 <!--
 **DMLebrilla/DMLebrilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
