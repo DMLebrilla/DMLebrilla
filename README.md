@@ -1,5 +1,8 @@
 ### Hi there 👋:smiley::blush::blush:
 
+![Uploading 20200826_123105.jpg…]()
+
+
 ### 👩 I'm Danica Marie A. Lebrilla
 - Born on September 24, 1999
 - Takes up Bachelor of Science in Information Technology @ WVSU
