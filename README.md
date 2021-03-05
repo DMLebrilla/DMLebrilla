@@ -1,6 +1,7 @@
 ### Hi there 👋:smiley::blush::blush:
+<img src="https://user-images.githubusercontent.com/71692247/110073189-ec312e80-7db9-11eb-8f64-40980626d6bb.jpg" alt="meee" width="200"/>
+    
 
-![f7574b86605093 Y3JvcCw2NDksNTA4LDYsNDI3](https://user-images.githubusercontent.com/71692247/110073189-ec312e80-7db9-11eb-8f64-40980626d6bb.jpg)
 
 
 
@@ -12,6 +13,7 @@
  ### 🌱 I’m currently learning
 
  - Computer Programming Language
+ - JAVA, C++, DART, FLUTTER
  - Networking 
 
 ### 📫 Contact Me
