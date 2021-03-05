@@ -1,6 +1,7 @@
 ### Hi there 👋:smiley::blush::blush:
 
-![Uploading 20200826_123105.jpg…]()
+![f7574b86605093 Y3JvcCw2NDksNTA4LDYsNDI3](https://user-images.githubusercontent.com/71692247/110073189-ec312e80-7db9-11eb-8f64-40980626d6bb.jpg)
+
 
 
 ### 👩 I'm Danica Marie A. Lebrilla
